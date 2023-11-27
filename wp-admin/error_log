@@ -1,0 +1,1093 @@
+[30-Jun-2023 09:43:22 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:43:22 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:43:22 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:43:50 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:43:50 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:43:50 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:44:07 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:44:07 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:44:07 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:44:58 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:44:58 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:44:58 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:45:20 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:45:20 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:45:20 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:46:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/block-template-utils.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:180
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 180
+[30-Jun-2023 09:48:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-walker.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:163
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 163
+[30-Jun-2023 09:48:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/CheckoutShippingMethodBlock.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypesController.php(65): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Blocks\BlockTypesController->register_blocks()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[30-Jun-2023 09:50:09 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:50:09 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:50:09 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:50:27 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:50:27 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:50:27 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:51:15 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$homepage_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 5
+[30-Jun-2023 09:51:15 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$docs_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 09:51:15 UTC] PHP Warning:  Undefined property: Ongkoskirim_Id_Shipping_Method::$contact_url in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/ongkoskirim-id/admin/partials/ongkoskirim-id-admin-settings-page-header.php on line 15
+[30-Jun-2023 10:07:55 UTC] PHP Warning:  Undefined variable $options in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[30-Jun-2023 10:07:55 UTC] PHP Warning:  Undefined variable $enabled_extensions in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2312
+[30-Jun-2023 10:09:45 UTC] WordPress database error Table 'wpnm_e_events' already exists for query CREATE TABLE `wpnm_e_events` (
+			id bigint(20) unsigned auto_increment primary key,
+			event_data text null,
+			created_at datetime not null
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Plugin->init, Elementor\Plugin->init_components, Elementor\Core\Admin\Admin->__construct, Elementor\Plugin->init_common, Elementor\Core\Common\App->init_components, Elementor\Core\Common\Modules\EventTracker\Module->__construct, Elementor\Core\Common\Modules\EventTracker\DB->__construct, Elementor\Core\Common\Modules\EventTracker\DB->create_table
+[30-Jun-2023 10:09:45 UTC] WordPress database error Duplicate key name 'created_at_index' for query ALTER TABLE wpnm_e_events
+    		ADD INDEX `created_at_index` (`created_at`)
+		 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Plugin->init, Elementor\Plugin->init_components, Elementor\Core\Admin\Admin->__construct, Elementor\Plugin->init_common, Elementor\Core\Common\App->init_components, Elementor\Core\Common\Modules\EventTracker\Module->__construct, Elementor\Core\Common\Modules\EventTracker\DB->__construct, Elementor\Core\Common\Modules\EventTracker\DB->add_indexes
+[30-Jun-2023 10:49:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Schemas/V1/CartCouponSchema.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 [internal function]: Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/deprecated.php(73): class_alias()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-version-loader.php(89): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader-handler.php(124): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Version_Loader->load_filemap()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(80): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Autoloader_Handler->activate_autoloader()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Autoloader::init()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Autoloader.php(37): require('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(27): Automattic\WooCommerce\Autoloader::init()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#12 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[30-Jun-2023 10:52:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/variation-swatches-woo/admin/attributes-config.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/variation-swatches-woo/plugin-loader.php:69
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/variation-swatches-woo/plugin-loader.php(98): CFVSW\Plugin_Loader->autoload()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): CFVSW\Plugin_Loader->load_classes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/variation-swatches-woo/plugin-loader.php on line 69
+[30-Jun-2023 11:55:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/php-compat/readonly.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/general-template.php:5144
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(192): require()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/general-template.php on line 5144
+[30-Jun-2023 12:56:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/importers/wxr-importer/class-wxr-importer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/importers/wxr-importer/class-astra-wxr-importer.php:57
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/importers/wxr-importer/class-astra-wxr-importer.php(41): Astra_WXR_Importer->__construct()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/importers/wxr-importer/class-astra-wxr-importer.php(574): Astra_WXR_Importer::instance()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php(170): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Astra_Sites_Importer->load_importer()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(96): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/importers/wxr-importer/class-astra-wxr-importer.php on line 57
+[30-Jun-2023 13:34:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/category-template.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:208
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 208
+[30-Jun-2023 13:37:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/class-installer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php:141
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php on line 141
+[30-Jun-2023 13:39:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/lib/Service/Radar/ValueListService.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php:210
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(94): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(50): CPSW\CPSW_Loader->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(300): CPSW\CPSW_Loader::get_instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-str[30-Jun-2023 14:12:42 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Builder/Help.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[30-Jun-2023 14:12:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php:34
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post.php(12): require_once()
+#1 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php on line 34
+[30-Jun-2023 14:12:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Composer/Package.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(64): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(44): Automattic\WooCommerce\Packages::load_packages()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Packages::on_init()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[30-Jun-2023 14:13:11 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-payment-gateway.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 449
+[30-Jun-2023 14:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "WC_Payment_Gateway" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php:18
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(478): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(185): WooCommerce->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php on line 18
+[30-Jun-2023 14:17:46 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Lite/Admin/Connect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[30-Jun-2023 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ServiceProviders/OptionSanitizerServiceProvider.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 [internal function]: Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php(30): class_exists()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(146): Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregate->add()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Container.php(91): Automattic\WooCommerce\Vendor\League\Container\Container->addServiceProvider()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(38): Automattic\WooCommerce\Container->__construct()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/edit.php(10): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[30-Jun-2023 14:31:34 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Builder/Help.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[30-Jun-2023 14:31:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-error-handler.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php:2108
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(123): Astra_Sites->includes()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(108): Astra_Sites->__construct()
+#2 /home/akbarra1/uasrekw[30-Jun-2023 14:45:23 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-settings.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php on line 185
+[30-Jun-2023 14:45:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-database-service.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-geolocation.php:11
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(54): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(97): WC_Autoloader->load_file()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-integrations.php(41): WC_Autoloader->autoload()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(671): WC_Integrations->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WooCommerce->init()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#11 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-geolocation.php on line 11
+[30-Jun-2023 14:45:23 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-settings.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php on line 185
+[30-Jun-2023 14:45:23 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-settings.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php on line 185
+[30-Jun-2023 14:45:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-database-service.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-geolocation.php:11
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(54): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(97): WC_Autoloader->load_file()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-integrations.php(41): WC_Autoloader->autoload()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(671): WC_Integrations->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WooCommerce->init()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#11 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-geolocation.php on line 11
+[30-Jun-2023 14:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_template_path() on bool in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php:450
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(33): WPO\WC\PDF_Invoices\Main->load_template_functions()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(1467): WPO\WC\PDF_Invoices\Main->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(187): include_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(226): WPO_WCPDF->includes()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPO_WCPDF->load_classes()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#11 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php on line 450
+[30-Jun-2023 14:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_template_path() on bool in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php:450
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(33): WPO\WC\PDF_Invoices\Main->load_template_functions()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(1467): WPO\WC\PDF_Invoices\Main->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(187): include_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(226): WPO_WCPDF->includes()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPO_WCPDF->load_classes()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#11 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php on line 450
+[30-Jun-2023 14:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_template_path() on bool in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php:450
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(33): WPO\WC\PDF_Invoices\Main->load_template_functions()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(1467): WPO\WC\PDF_Invoices\Main->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(187): include_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php(226): WPO_WCPDF->includes()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPO_WCPDF->load_classes()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#11 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php on line 450
+[30-Jun-2023 14:53:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/class-wp-upgrader.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/translation-install.php:265
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/WPorg/Translations.php(46): wp_can_install_language_pack()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(72): WPForms\Integrations\WPorg\Translations->allow_load()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(58): WPForms\Integrations\Loader->load_integration()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(22): WPForms\Integrations\Loader->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPForms\Integrations\Loader::get_instance()
+#5 /home/akbarra1/uasrek[30-Jun-2023 16:28:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-block-type.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:315
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 315
+[01-Jul-2023 08:06:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/nav-menu-template.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:253
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/edit-tags.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 253
+[01-Jul-2023 08:25:55 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Forms/IconChoices.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 08:25:55 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/SmartTags/SmartTags.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 08:25:55 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Forms/Locator.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 08:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-embed.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:232
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 232
+[01-Jul-2023 08:26:16 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Settings/ModernMarkup.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 08:26:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/gateway/stripe/card-payments.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php:79
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(174): CPSW\CPSW_Loader->autoload()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): CPSW\CPSW_Loader->load_classes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php on line 79
+[01-Jul-2023 08:26:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/gateway/stripe/card-payments.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php:79
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(174): CPSW\CPSW_Loader->autoload()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): CPSW\CPSW_Loader->load_classes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php on line 79
+[01-Jul-2023 08:27:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/kses.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:219
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post.php(12): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 219
+[01-Jul-2023 08:28:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/lib/ApiOperations/Update.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php:57
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(94): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(50): CPSW\CPSW_Loader->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(300): CPSW\CPSW_Loader::get_instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/checkout-plugins-stripe-woo.php(27): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post.php(12): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php on line 57
+[01-Jul-2023 08:38:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/action-scheduler/action-scheduler.php:54
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_Versions.php(59): action_scheduler_initialize_3_dot_5_dot_4()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(306): ActionScheduler_Versions::initialize_latest_version()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/action-scheduler/action-scheduler.php on line 54
+[01-Jul-2023 08:40:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-taxonomy.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:224
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 224
+[01-Jul-2023 08:44:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/lib/Exception/OAuth/InvalidRequestException.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php:44
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(94): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(50): CPSW\CPSW_Loader->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(300): CPSW\CPSW_Loader::get_instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/checkout-plugins-stripe-woo.php(27): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/edit.php(10): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php on line 44
+[01-Jul-2023 08:44:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader-locator.php:83
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader-locator.php(47): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Autoloader_Locator->get_autoloader_version()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-latest-autoloader-guard.php(78): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Autoloader_Locator->find_latest_autoloader()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(75): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Latest_Autoloader_Guard->should_stop_init()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\Autoloader::init()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Autoloader.php(37): require('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(27): Automattic\WooCommerce\Autoloader::init()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader-locator.php on line 83
+[01-Jul-2023 08:50:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/lib/Charge.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php:92
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(94): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(50): CPSW\CPSW_Loader->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(300): CPSW\CPSW_Loader::get_instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/checkout-plugins-stripe-woo.php(27): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/plugins.php(10): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php on line 92
+[01-Jul-2023 08:51:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/vendor/automattic/jetpack-device-detection/src/class-device-detection.php:11
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/plugins/jetpack.php(7): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/wp-cache-phase1.php(66): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/advanced-cache.php(22): include_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(95): include('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#7 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/vendor/automattic/jetpack-device-detection/src/class-device-detection.php on line 11
+[01-Jul-2023 08:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/webp/class-webp-dir.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php:289
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/webp/class-webp-helper.php(21): WP_Smush->autoload()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/webp/class-webp-controller.php(35): Smush\Core\Webp\Webp_Helper->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/class-modules.php(145): Smush\Core\Webp\Webp_Controller->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/class-core.php(156): Smush\Core\Modules->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/core/class-stats.php(104): Smush\Core\Core->init()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php(310): Smush\Core\Stats->__construct()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php(239): WP_Smush->init()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php(212): WP_Smush->__construct()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WP_Smush::get_instance()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#15 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-smushit/wp-smush.php on line 289
+[01-Jul-2023 09:00:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php:362
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php(67): Header_Footer_Elementor->includes()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php(43): Header_Footer_Elementor->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/header-footer-elementor.php(42): Header_Footer_Elementor::instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): hfe_init()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php on line 362
+[01-Jul-2023 09:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "WC_Order" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Overrides/Order.php:18
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php(87): require()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/Schedulers/OrdersScheduler.php(38): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/ReportsSync.php(24): Automattic\WooCommerce\Internal\Admin\Schedulers\OrdersScheduler::init()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(166): Automattic\WooCommerce\Admin\ReportsSync::init()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(99): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->includes()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(82): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->on_plugins_loaded()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Composer/Package.php(65): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->init()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(64): Automattic\WooCommerce\Admin\Composer\Package::init()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(44): Automattic\WooCommerce\Packages::load_packages()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Packages::on_init()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#16 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Overrides/Order.php on line 18
+[01-Jul-2023 09:01:41 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Forms/Ajax/Tags.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 09:08:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/API/Init.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(158): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(99): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(82): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->on_plugins_loaded()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Composer/Package.php(65): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->init()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(64): Automattic\WooCommerce\Admin\Composer\Package::init()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(44): Automattic\WooCommerce\Packages::load_packages()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Packages::on_init()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#13 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 09:08:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/cron.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:220
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 220
+[01-Jul-2023 09:08:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/term-description.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/require-dynamic-blocks.php:65
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/index.php(13): require()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(324): require('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#5 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/require-dynamic-blocks.php on line 65
+[01-Jul-2023 09:14:30 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Forms/Ajax/Tags.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 09:14:30 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Forms/Search.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 09:31:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/update.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php:72
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(56): Astra_Sites_Batch_Site_Import->__construct()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(718): Astra_Sites_Batch_Site_Import::get_instance()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(58): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(35): Astra_Sites_Batch_Import->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(65): Astra_Sites_Batch_Import::get_instance()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2121): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(123): Astra_Sites->includes()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(108): Astra_Sites->__construct()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2643): Astra_Sites::get_instance()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/astra-sites.php(49): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): astra_sites_setup()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#17 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php on line 72
+[01-Jul-2023 09:31:54 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/../../src/Encryption/EncryptionService.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 09:31:54 UTC] PHP Fatal error:  Uncaught Error: Interface "TidioLiveChat\Encryption\EncryptionService" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/src/Encryption/Service/OpenSslEncryptionService.php:12
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(476): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/src/Encryption/Service/EncryptionServiceFactory.php(23): Composer\Autoload\ClassLoader->loadClass()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/tidio-elements.php(46): TidioLiveChat\Encryption\Service\EncryptionServiceFactory->create()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post.php(12): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/src/Encryption/Service/OpenSslEncryptionService.php on line 12
+[01-Jul-2023 09:32:49 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 446
+[01-Jul-2023 09:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "WC_Abstract_Order" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-order.php:16
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(54): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php(98): WC_Autoloader->load_file()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Overrides/Order.php(18): WC_Autoloader->autoload()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php(87): require('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/Schedulers/OrdersScheduler.php(38): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/ReportsSync.php(24): Automattic\WooCommerce\Internal\Admin\Schedulers\OrdersScheduler::init()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(166): Automattic\WooCommerce\Admin\ReportsSync::init()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(99): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->includes()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Admin/FeaturePlugin.php(82): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->on_plugins_loaded()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Admin/Composer/Package.php(65): Automattic\WooCommerce\Internal\Admin\FeaturePlugin->init()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(64): Automattic\WooCommerce\Admin\Composer\Package::init()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Packages.php(44): Automattic\WooCommerce\Packages::load_packages()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Packages::on_init()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#17 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#18 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#19 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-order.php on line 16
+[01-Jul-2023 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php:23
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(459): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(185): WooCommerce->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 23
+[01-Jul-2023 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php:23
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(459): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(185): WooCommerce->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 23
+[01-Jul-2023 09:34:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:111
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 111
+[01-Jul-2023 09:34:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/block-editor.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:325
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 325
+[01-Jul-2023 09:40:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-block-type.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:315
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 315
+[01-Jul-2023 09:47:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/base/db-upgrades-manager.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php:294
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php(330): Elementor\Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/upgrade/manager.php(10): Elementor\Autoloader::autoload()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php(294): require('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php(330): Elementor\Autoloader::load_class()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/experiments/manager.php(94): Elementor\Autoloader::autoload()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/experiments/manager.php(317): Elementor\Core\Experiments\Manager->add_feature()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/experiments/manager.php(491): Elementor\Core\Experiments\Manager->add_default_features()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/experiments/manager.php(908): Elementor\Core\Experiments\Manager->init_features()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/plugin.php(706): Elementor\Core\Experiments\Manager->__construct()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/plugin.php(647): Elementor\Plugin->init_components()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Elementor\Plugin->init()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#17 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php on line 294
+[01-Jul-2023 09:55:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/includes/templates/class-base.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/includes/class-templates.php:28
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/includes/class-templates.php(17): WPForms_Templates->init()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/includes/class-templates.php(62): WPForms_Templates->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(180): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(125): WPForms\WPForms->includes()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(408): WPForms\WPForms::instance()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/wpforms.php(282): wpforms()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/includes/class-templates.php on line 28
+[01-Jul-2023 09:55:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/inc/addons/heading-colors/class-astra-heading-colors.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/functions.php:160
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(591): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/functions.php on line 160
+[01-Jul-2023 10:01:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/rest/class.wp-super-cache-rest-get-plugins.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/rest/load.php:11
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/wp-cache.php(115): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#5 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/rest/load.php on line 11
+[01-Jul-2023 10:01:24 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-variation-data-store-cpt.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 509
+[01-Jul-2023 10:01:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/inc/compatibility/class-astra-elementor-pro.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/functions.php:166
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(591): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/themes/astra/functions.php on line 166
+[01-Jul-2023 10:02:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:295
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 295
+[01-Jul-2023 10:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/plugins/jetpack.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/wp-cache-phase1.php:66
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/advanced-cache.php(22): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(95): include('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#6 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wp-super-cache/wp-cache-phase1.php on line 66
+[01-Jul-2023 10:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/Features/FeaturesController.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 [internal function]: Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(211): class_exists()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(178): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(45): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#8 [internal function]: Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->Automattic\WooCommerce\Vendor\League\Container\Argument\{closure}()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(19): array_map()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/Definition.php(28): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolveArguments()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(212): Automattic\WooCommerce\Internal\DependencyManagement\Definition->resolveClass()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(178): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#17 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Container.php(106): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#18 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(240): Automattic\WooCommerce\Container->get()
+#19 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(186): WooCommerce->init_hooks()
+#20 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#21 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#22 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#23 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#24 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#25 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#26 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#27 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 10:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Database/Migrations/MetaToMetaTableMigrator.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Database/Migrations/CustomOrderTable/PostMetaToOrderMetaMigrator.php(16): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php(87): require('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Database/Migrations/CustomOrderTable/PostsToOrdersMigrationController.php(48): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/Definition.php(29): Automattic\WooCommerce\Database\Migrations\CustomOrderTable\PostsToOrdersMigrationController->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(212): Automattic\WooCommerce\Internal\DependencyManagement\Definition->resolveClass()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(178): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(45): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#11 [internal function]: Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->Automattic\WooCommerce\Vendor\League\Container\Argument\{closure}()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(19): array_map()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/Definition.php(28): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolveArguments()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(212): Automattic\WooCommerce\Internal\DependencyManagement\Definition->resolveClass()
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#17 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#18 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(45): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#19 [internal function]: Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->Automattic\WooCommerce\Vendor\League\Container\Argument\{closure}()
+#20 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Argument/ArgumentResolverTrait.php(19): array_map()
+#21 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/Definition.php(28): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolveArguments()
+#22 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(212): Automattic\WooCommerce\Internal\DependencyManagement\Definition->resolveClass()
+#23 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#24 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#25 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#26 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(178): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#27 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#28 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Container.php(106): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#29 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(240): Automattic\WooCommerce\Container->get()
+#30 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(186): WooCommerce->init_hooks()
+#31 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#32 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#33 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#34 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#35 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#36 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#37 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#38 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 10:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/shortcodes.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:230
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 230
+[01-Jul-2023 10:11:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/plugin.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php:71
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(56): Astra_Sites_Batch_Site_Import->__construct()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(718): Astra_Sites_Batch_Site_Import::get_instance()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(58): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(35): Astra_Sites_Batch_Import->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(65): Astra_Sites_Batch_Import::get_instance()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2121): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(123): Astra_Sites->includes()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(108): Astra_Sites->__construct()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2643): Astra_Sites::get_instance()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/astra-sites.php(49): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): astra_sites_setup()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#17 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php on line 71
+[01-Jul-2023 10:11:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php:131
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(408): WPForms\WPForms::instance()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/wpforms.php(282): wpforms()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#6 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php on line 131
+[01-Jul-2023 10:12:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/modules/favorites/controller.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php:294
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php(330): Elementor\Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/modules/favorites/module.php(49): Elementor\Autoloader::autoload()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/base/module.php(85): Elementor\Modules\Favorites\Module->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/core/modules-manager.php(64): Elementor\Core\Base\Module::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/plugin.php(730): Elementor\Core\Modules_Manager->__construct()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/plugin.php(647): Elementor\Plugin->init_components()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Elementor\Plugin->init()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#13 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/elementor/includes/autoloader.php on line 294
+[01-Jul-2023 10:15:19 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Forms/Locator.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 10:15:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/post.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:196
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 196
+[01-Jul-2023 10:15:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/update.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php:72
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(56): Astra_Sites_Batch_Site_Import->__construct()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(718): Astra_Sites_Batch_Site_Import::get_instance()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(58): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(35): Astra_Sites_Batch_Import->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(65): Astra_Sites_Batch_Import::get_instance()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2121): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(123): Astra_Sites->includes()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(108): Astra_Sites->__construct()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2643): Astra_Sites::get_instance()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/astra-sites.php(49): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): astra_sites_setup()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#17 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php on line 72
+[01-Jul-2023 10:19:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/DataRegenerator.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 [internal function]: Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php(211): class_exists()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/DefinitionAggregate.php(94): Automattic\WooCommerce\Vendor\League\Container\Definition\Definition->resolve()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(157): Automattic\WooCommerce\Vendor\League\Container\Definition\DefinitionAggregate->resolve()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ExtendedContainer.php(117): Automattic\WooCommerce\Vendor\League\Container\Container->get()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Container.php(106): Automattic\WooCommerce\Internal\DependencyManagement\ExtendedContainer->get()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(237): Automattic\WooCommerce\Container->get()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(186): WooCommerce->init_hooks()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#15 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 10:19:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Internal/DependencyManagement/ServiceProviders/OrderAdminServiceProvider.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 [internal function]: Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php(30): class_exists()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/lib/packages/League/Container/Container.php(146): Automattic\WooCommerce\Vendor\League\Container\ServiceProvider\ServiceProviderAggregate->add()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/src/Container.php(91): Automattic\WooCommerce\Vendor\League\Container\Container->addServiceProvider()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(38): Automattic\WooCommerce\Container->__construct()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#10 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 10:20:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/plugin.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php:71
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(56): Astra_Sites_Batch_Site_Import->__construct()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php(718): Astra_Sites_Batch_Site_Import::get_instance()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(58): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(35): Astra_Sites_Batch_Import->__construct()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-import.php(65): Astra_Sites_Batch_Import::get_instance()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2121): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(123): Astra_Sites->includes()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(108): Astra_Sites->__construct()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php(2643): Astra_Sites::get_instance()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/astra-sites.php(49): require_once('/home/akbarra1/...')
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): astra_sites_setup()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#17 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/astra-sites/inc/classes/batch-import/class-astra-sites-batch-site-import.php on line 71
+[01-Jul-2023 10:20:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/post-template.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/require-dynamic-blocks.php:45
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/index.php(13): require()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(324): require('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#5 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/blocks/require-dynamic-blocks.php on line 45
+[01-Jul-2023 10:25:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/lib/Sigma/ScheduledQueryRun.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php:146
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(94): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(50): CPSW\CPSW_Loader->__construct()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/autoloader.php(300): CPSW\CPSW_Loader::get_instance()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/checkout-plugins-stripe-woo.php(27): require_once('/home/akbarra1/...')
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/checkout-plugins-stripe-woo/lib/stripe-php/init.php on line 146
+[01-Jul-2023 10:25:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/theme.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:172
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 172
+[01-Jul-2023 10:25:42 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Settings/ModernMarkup.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 10:29:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:285
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 285
+[01-Jul-2023 11:02:38 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Pages/Analytics.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 11:02:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/pluggable-deprecated.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:469
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 469
+[01-Jul-2023 11:02:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-http-requests-hooks.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:249
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 249
+[01-Jul-2023 11:07:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/tidio-elements.php:26
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/tidio-elements.php on line 26
+[01-Jul-2023 11:08:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/midtrans-woocommerce/lib/midtrans/Midtrans/CoreApi.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/midtrans-woocommerce/lib/midtrans/Midtrans.php:27
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/midtrans-woocommerce/midtrans-gateway.php(58): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): midtrans_gateway_init()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#8 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/midtrans-woocommerce/lib/midtrans/Midtrans.php on line 27
+[01-Jul-2023 11:14:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Payments/Integrations/AbstractPaymentMethodType.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php:87
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Payments/Integrations/Cheque.php(12): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php(87): require('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Domain/Bootstrap.php(455): Automattic\Jetpack\Autoloader\jp741993bb9566fe1702f83908718d3a93\PHP_Autoloader::load_class()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Registry/AbstractDependencyType.php(42): Automattic\WooCommerce\Blocks\Domain\Bootstrap->Automattic\WooCommerce\Blocks\Domain\{closure}()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Registry/SharedType.php(28): Automattic\WooCommerce\Blocks\Registry\AbstractDependencyType->resolve_value()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Registry/Container.php(96): Automattic\WooCommerce\Blocks\Registry\SharedType->get()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Payments/Api.php(108): Automattic\WooCommerce\Blocks\Registry\Container->get()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Blocks\Payments\Api->register_payment_method_integrations()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/Integrations/IntegrationRegistry.php(50): do_action()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): Automattic\WooCommerce\Blocks\Integrations\IntegrationRegistry->initialize()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(623): do_action()
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#17 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#18 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-php-autoloader.php on line 87
+[01-Jul-2023 11:14:46 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/loginizer/IPv6/IPv6.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/loginizer/functions.php on line 3
+[01-Jul-2023 11:22:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/query.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:170
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 170
+[01-Jul-2023 11:24:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/formatting.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:109
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#3 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 109
+[01-Jul-2023 11:27:22 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/legacy/class-wc-legacy-api.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 531
+[01-Jul-2023 11:27:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-order-functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php:24
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(459): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(185): WooCommerce->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 24
+[01-Jul-2023 11:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "WC_Legacy_API" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-api.php:19
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(532): include_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(185): WooCommerce->includes()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php(144): WooCommerce->__construct()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(47): WooCommerce::instance()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/woocommerce.php(62): WC()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(453): include_once('/home/akbarra1/...')
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#9 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-api.php on line 19
+[01-Jul-2023 11:28:05 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Dashboard/Widget.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 11:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Admin\Dashboard\Widget" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Lite/Admin/DashboardWidget.php:12
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(476): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Admin/Loader.php(66): class_exists()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Adm[01-Jul-2023 11:28:05 UTC] PHP Warning:  include(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/vendor/composer/../../src/Admin/Dashboard/Widget.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php on line 476
+[01-Jul-2023 11:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "WPForms\Admin\Dashboard\Widget" not found in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Lite/Admin/DashboardWidget.php:12
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(476): include()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/tidio-live-chat/vendor/composer/ClassLoader.php(344): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Admin/Loader.php(66): class_exists()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Admin/Loader.php(50): WPForms\Admin\Loader->register_class()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Admin/Loader.php(22): WPForms\Admin\Loader->__construct()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPForms\Admin\Loader::get_instance()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(266): do_action()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPForms\WPForms->objects()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#16 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#17 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/post-new.php(10): require_once('/home/akbarra1/...')
+#18 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Lite/Admin/DashboardWidget.php on line 12
+[01-Jul-2023 11:30:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/class-language-pack-upgrader.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/class-wp-upgrader.php:978
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/translation-install.php(265): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/WPorg/Translations.php(46): wp_can_install_language_pack()
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(72): WPForms\Integrations\WPorg\Translations->allow_load()
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(58): WPForms\Integrations\Loader->load_integration()
+#4 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php(22): WPForms\Integrations\Loader->__construct()
+#5 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPForms\Integrations\Loader::get_instance()
+#6 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#7 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/wpforms-lite/src/WPForms.php(266): do_action()
+#9 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(308): WPForms\WPForms->objects()
+#10 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#11 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php(486): do_action()
+#13 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once('/home/akbarra1/...')
+#14 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#15 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin-ajax.php(22): require_once('/home/akbarra1/...')
+#16 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/includes/class-wp-upgrader.php on line 978
+[01-Jul-2023 11:31:23 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-assets.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php on line 189
+[01-Jul-2023 11:31:23 UTC] PHP Warning:  include_once(): Failed opening '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-wc-cart.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 640
+[01-Jul-2023 11:31:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-includes/nav-menu-template.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php:253
+Stack trace:
+#0 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-config.php(98): require_once()
+#1 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-load.php(50): require_once('/home/akbarra1/...')
+#2 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/admin.php(34): require_once('/home/akbarra1/...')
+#3 /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-admin/themes.php(10): require_once('/home/akbarra1/...')
+#4 {main}
+  thrown in /home/akbarra1/uasrekweb.akbarrahmatm.my.id/wp-settings.php on line 253

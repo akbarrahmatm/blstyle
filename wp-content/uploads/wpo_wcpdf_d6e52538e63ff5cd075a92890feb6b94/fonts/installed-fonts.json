@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/Segoe-Normal",
+        "bold": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/Segoe-Bold",
+        "italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/currencies",
+        "bold": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/currencies",
+        "italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/currencies",
+        "bold_italic": "\/home\/akbarra1\/uasrekweb.akbarrahmatm.my.id\/wp-content\/uploads\/wpo_wcpdf_d6e52538e63ff5cd075a92890feb6b94\/fonts\/currencies"
+    }
+}
